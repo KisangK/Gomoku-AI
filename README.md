@@ -1,4 +1,6 @@
 # Gomoku AI
+![Main_screen](https://github.com/user-attachments/assets/38f8cf61-7e2b-4d00-a053-dc98ff0355e4)
+![game_play](https://github.com/user-attachments/assets/b85ff741-d99b-4f12-a5b7-1e1c9732b8eb)
 
 download link: https://drive.google.com/drive/folders/1n5CulQi0v2_I8RUiFQNH-xxgEDDN7oqQ?usp=drive_link
 
